@@ -1,0 +1,15 @@
+{
+    "inputs":[
+      {
+        "source":{
+          "sourceUrl":""
+        },
+        "targets":[
+          {
+            "targetUrl":"",
+            "language":"zh-Hans"
+          }
+        ]
+      }
+    ]
+  }
